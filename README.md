@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4)](https://core.telegram.org/bots)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-API-34A853)](https://developers.google.com/sheets)
 
-Automated contact management system that sends weekly Telegram reminders and updates Google Sheets with one click. Perfect for salespeople, networkers, and busy professionals.
+Automated contact management system that sends weekly Telegram reminders and updates Google Sheets with one click. Perfect for busy people who still want to be intentional with their treasured relationships.
 
 ## 🎥 Video Tutorials
 
